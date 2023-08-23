@@ -1,0 +1,20 @@
+
+header{
+    background-color: black;
+    color:white;
+ 
+}
+nav ul{
+    display:flex; 
+    flex-direction: row;
+    text-decoration: none;
+    text-align :center;
+    align-items:center;
+   
+}
+.class1{
+    background-color: yellow;
+}
+.class2{
+    background-color: red;
+}
